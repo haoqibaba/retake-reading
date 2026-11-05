@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+*.docx
+拼音审查稿.txt
